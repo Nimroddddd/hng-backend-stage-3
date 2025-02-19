@@ -76,7 +76,8 @@ const integrationSettings = {
         "options": ["Super-Admin", "Admin", "Manager", "Developer"]
       }
     ],
-    "tick_url": "https://hng-backend-stage-3.onrender.com/tick"
+    "tick_url": "https://hng-backend-stage-3.onrender.com/tick",
+    "target_url": "Optional URL for getting data from the Telex channel"
   }
 }
 
